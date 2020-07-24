@@ -1,4 +1,4 @@
-### Ola,I am Udai Chauhan 👋
+### Ola, I'm Udai Chauhan 👋
 
 Here are some ideas to get you started:
 
@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Instagram 
 - 🤔 I’m looking for help with ReactJs Documentation
 - 💬 Ask me about Web Development
-- 📫 How to reach me: Gmail-udaichauhan284@gmail.com Twitter- @Udaichauhan10 Instagram- @UdaiChauhan284
+- 📫 How to reach me: Gmail-udaichauhan284@gmail.com Twitter-@Udaichauhan10 Instagram-@UdaiChauhan284
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can suggest you some awesome web series and movies also i can solve Rubic Cube 3*3. 
