@@ -1,8 +1,5 @@
 ### Ola,I am Udai Chauhan 👋
 
-<!--
-**Udaichauhan284/Udaichauhan284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Self Devlopment
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Gmail-udaichauhan284@gmail.com Twitter- @Udaichauhan10 Instagram- @UdaiChauhan284
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can suggest you some awesome web series and movies also i can solve Rubic Cube 3*3. 
--->
