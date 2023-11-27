@@ -2,11 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Self Devlopment
-- 🌱 I’m currently learning JavaScript and ReactJs
-- 👯 I’m looking to collaborate on Instagram 
-- 🤔 I’m looking for help with ReactJs Documentation
+- 🔭 Daily Learning and Tech Writer.
+- 👯 I’m looking to collaborate on Twitter and GitHub
+- 🤔 I’m looking for help with learning different tech stacks and building together.
 - 💬 Ask me about Web Development
 - 📫 How to reach me: Gmail-udaichauhan284@gmail.com Twitter-@Udaichauhan10 Instagram-@UdaiChauhan284
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I can suggest you some awesome web series and movies also i can solve Rubic Cube 3*3. 
+- ⚡ Fun fact: I can suggest some awesome web series and movies also I can solve Rubic Cube 3*3. 
